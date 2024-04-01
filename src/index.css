@@ -9,3 +9,67 @@ body,
   height: 100%;
   width: 100%;
 }
+
+
+.navigation-bar{
+  background-color: lightblue;
+  height: 60px;
+  width: 100%;
+}
+.navigation-buttons{
+  float: right
+}
+
+.align-center{
+  align-items: center;
+}
+.container {
+  display: flex;
+  align-items: center;
+  
+}
+
+img {
+  max-width: 100%
+}
+
+
+.text {
+  font-size: 15px;
+  padding-left: 20px;
+}
+
+.solid-border {
+  border-style: solid;
+}
+
+.posts{
+  margin: 20px;
+}
+.user-profile{
+  margin: 20px;
+}
+.post {
+  margin: 20px;
+}
+
+.contacts{
+  margin: 20px;
+}
+.contact {
+  margin: 20px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.left-section {
+  width: 75%;
+  float: left
+}
+
+.right-section {
+  width: 25%;
+  float: right
+}
